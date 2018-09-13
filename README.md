@@ -26,6 +26,8 @@ Then run the program
 
 ### Commands
 
-.join - your bot joins the same voice channel you are in
-.leave - your bot leaves whatever voice channel it is in
-.play[space][ytube link] - plays a low quality audio of the youtube video which the link belongs to
+#### .join - your bot joins the same voice channel you are in
+
+#### .leave - your bot leaves whatever voice channel it is in
+
+#### .play[space][ytube link] - plays a low quality audio of the youtube video which the link belongs to
