@@ -22,6 +22,8 @@ pip3 install discord.py[Voice]
 
 Head over to releases and download the latest luxun.py
 
+Replace the placeholder token with your own bot's token
+
 Then run the program
 
 ### Commands
