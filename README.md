@@ -1,4 +1,4 @@
-# LuXun
+# LuXun (development ceased)
 
 Lu Xun **(chinese general from the "Three Kingdoms" story)** is an experimental discord music bot written in python intially inteded for private use. 
 
